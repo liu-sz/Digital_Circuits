@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Lecture 1
+## Introduction
